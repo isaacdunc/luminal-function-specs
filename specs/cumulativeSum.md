@@ -1,5 +1,7 @@
 **Name**: cumulativeSum
+
 **Description**: Returns an array where each element is the sum of the preceding elements.
+
 **Subject type (optional)**: Matrix
 
 **Example:**
