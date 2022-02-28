@@ -1,5 +1,7 @@
 **Name**: readCSV
+
 **Description**: Reads the file as a UTF-8 Comma-Separated Values file, and automatically parses the values where possible (e.g. numbers).
+
 **Subject type (optional)**: File
 
 **Example:**
