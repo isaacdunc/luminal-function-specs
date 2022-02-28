@@ -17,8 +17,10 @@ A function spec must include the following:
 
 **Example spec using Python:**
 
-Name: cumulativeSum<br/>
-Description: Returns an array where each element is the sum of the preceding elements.<br/>
+Name: cumulativeSum
+
+Description: Returns an array where each element is the sum of the preceding elements.
+
 Subject type: Matrix
 
 Example:
