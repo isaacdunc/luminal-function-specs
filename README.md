@@ -9,9 +9,9 @@ Luminal is a platform for engineering calculations, simulations and optimization
 A function spec must include the following:
 
 - A name
-- An English description of what the function does.
-- The type on which the function operates (optional).
-- An example (this will be shown in the documentation).
+- A plain English description of what the function does.
+- The type on which the function operates, for example "Matrix", "Number" or "File" (optional).
+- An example (this will be shown in the documentation and auto-complete).
 - The function spec itself, written in Python, Swift or pseudocode.
 - Preconditions specific to the function, if applicable.
 
