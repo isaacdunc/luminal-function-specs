@@ -17,18 +17,18 @@ A function spec must include the following:
 
 **Example spec using Python:**
 
-```
-Name: cumulativeSum
-Description: Returns an array where each element is the sum of the preceding elements.
+Name: cumulativeSum<br/>
+Description: Returns an array where each element is the sum of the preceding elements.<br/>
 Subject type: Matrix
 
 Example:
-
+```
 x = [ 1, 2, 3; 4, 5, 6 ] # A 2x3 matrix
 y = x.cumulativeSum() # y is now equal to: [ 1, 3, 6, 10, 15, 21 ]
+```
 
 Function spec:
-
+```
 def cumulativeSum(matrix):
     flattened = []
     for row in matrix:
@@ -39,9 +39,8 @@ def cumulativeSum(matrix):
     for i in range(count):
         result.append(sum(flattened[0:i+1]))
     return result
+```
 
 Preconditions:
-
 - All elements must be numeric.
 - The matrix must not be empty.
-```
