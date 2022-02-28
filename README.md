@@ -28,7 +28,7 @@ y = x.cumulativeSum() # y is now equal to: [ 1, 3, 6, 10, 15, 21 ]
 ```
 
 Function spec:
-```
+```python
 def cumulativeSum(matrix):
     flattened = []
     for row in matrix:
