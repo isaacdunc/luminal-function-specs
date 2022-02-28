@@ -1,9 +1,9 @@
 - [ ] I have read the instructions in the [README](https://github.com/superluminalengineering/luminal-function-specs/blob/main/README.md).
 - [ ] I want to be named as the person who contributed this function, if it meets the quality guidelines as well as the requirements listed in the README.
 
-**Name**:
-**Description**:
-**Subject type (optional)**:
+**Name**:<br/>
+**Description**:<br/>
+**Subject type (optional)**:<br/>
 
 **Example:**
 ```
