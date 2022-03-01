@@ -5,7 +5,8 @@ Help us improve Luminal by contributing a function spec! If the function spec me
 ## How to add a spec
 - Read the requirements below.
 - Go the `specs` folder and click _Add file_ > _Create new file_.
-- Write your spec ([Markdown](https://www.markdownguide.org/basic-syntax/) syntax). See the example below or check one of the other specs in the `specs` folder.
+- Name your file and use `.md` as the extension—specs should be in [Markdown](https://www.markdownguide.org/basic-syntax/) syntax.
+- Write your spec. See the example below or check one of the other specs in the `specs` folder.
 - Click _Propose new file_.
 
 ## Requirements
