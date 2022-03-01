@@ -2,7 +2,13 @@
 
 Help us improve Luminal by contributing a function spec! If the function spec meets our quality guidelines as well as the requirements listed below, we'll add it to Luminal and mention you as the contributor (unless you prefer not to be mentioned). **Before you initiate a pull request**, please read the requirements below.
 
-## Requirements:
+## How to add a spec
+- Read the requirements below.
+- Go the `specs` folder and click _Add file_ > _Create new file_.
+- Write your spec ([Markdown](https://www.markdownguide.org/basic-syntax/) syntax). See the example below or check one of the other specs in the `specs` folder.
+- Click _Propose new file_.
+
+## Requirements
 
 Luminal is a platform for engineering calculations, simulations and optimizations. It is not meant as a general purpose programming language. Function specs should be helpful to engineers.
 
